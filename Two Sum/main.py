@@ -23,7 +23,7 @@ class Solution(object):
 def main():
     solution = Solution()
     
-    nums = [2, 7, 11, 15]
+    nums = [2, 7, 11, 17]
     target = 9
     
     result = solution.twoSum(nums, target)

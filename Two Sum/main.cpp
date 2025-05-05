@@ -23,6 +23,7 @@ public:
 
 int main(void) {
     Solution solution;
+    
     std::vector<int> nums = {2,4,5,6};
     int target = 6;
     
