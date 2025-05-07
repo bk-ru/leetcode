@@ -27,7 +27,6 @@ int main(void) {
 
     Solution solution;
 
-    for (int i : solution.productExceptSelf(nums)) {
+    for (int i : solution.productExceptSelf(nums))
         std::cout << i << ", ";
-    }
 }
