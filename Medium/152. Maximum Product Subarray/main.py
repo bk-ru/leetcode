@@ -21,7 +21,7 @@ def main():
     # [-1, -2, -3, -4]  
     solution = Solution()
     # nums = np.random.randint(-10, 10, size=6)
-    nums = [1, 2, -3, 4, 2]
+    nums = [-2,0,-1]
     print(nums)
     
     print(solution.maxProduct(nums)) # -> 6
